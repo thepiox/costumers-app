@@ -1,0 +1,7 @@
+{
+	"customers": [
+		{ "key": 1, "dni": 17904557, "age": 32, "name": "Ricardo" },
+		{ "key": 2, "dni": 17904559, "age": 31, "name": "Daniel" },
+		{ "key": 3, "dni": 20386325, "age": 26, "name": "Miguel" }
+	]
+}
